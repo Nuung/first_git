@@ -1,5 +1,7 @@
 
 print("vim in master branch")
+print("vim in hotfix branch! _ nuung test")
+
 in_name = input("What ur name")
 in_str = input("Put ur password!")
 
