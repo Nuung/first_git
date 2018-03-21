@@ -3,6 +3,7 @@ global game_counter
 global com_total_moving
 global user_total_moving
 
+print("edit by nuung for test fetch,push")
 class ClassMain(object):
 	def __init__(self, name, turns):
 		self.__name = name
