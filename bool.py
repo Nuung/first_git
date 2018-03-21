@@ -16,3 +16,6 @@ elif in_str=="11":
 else:
 	print("what the fuxk, who u r?")
 	print("I dont know ["+in_name+"] is who are!")
+
+print()
+print("Testing git pull!")
