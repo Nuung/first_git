@@ -1,6 +1,7 @@
 
 puts("HELLO, it's test in git hash for vim and git branch ~ checkout")
-puts("What ur name")
+puts("change in hot fix")
+puts("What is ur name?")
 in_name = gets.chomp();
 puts("Put ur password!")
 in_str = gets.chomp();
