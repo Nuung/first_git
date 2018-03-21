@@ -1,4 +1,5 @@
 
+print("vim in master branch")
 in_name = input("What ur name")
 in_str = input("Put ur password!")
 
