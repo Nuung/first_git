@@ -1,4 +1,6 @@
 
+# For command line git tutorial
+# Local repository modification
 print("vim in master branch")
 print("vim in hotfix branch! _ nuung test")
 
